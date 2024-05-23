@@ -14,6 +14,9 @@ press Ctrl + R and type:
 then copy the exe into the startup folder. Boom, jb on startup! ;)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Extra information:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 All this tool basically does is some well needed automations for those of us without a Pi or Ethernet adapters :(... i have us covered!
 
 Personally my wires are a headache to get to and a friend of mine found out that you can just disable and re-enable your ethernet instead of unplugging/plugging it back in!
