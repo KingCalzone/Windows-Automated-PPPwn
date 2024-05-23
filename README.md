@@ -9,7 +9,7 @@ Benefits:
 All of the perks of the C++ version, this is hands free, jailbreak can run whilst your console boots, it is also possible to set this tool as a startup app if you wish & if you have a dedicated PPPoe connection constantly plugged in.
 >
 press Ctrl + R and type:
->'shell:startup'
+>shell:startup
 
 then copy the exe into the startup folder. Boom, jb on startup! ;)
 
